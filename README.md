@@ -1,5 +1,5 @@
 # Projects
-Outline of projects in 2020/2021
+Outline of projects in 2020/2021 for Ying Cheng
 
 ## 1105 
 Compilation of notebooks containing classification, regression work on Housing Data prediction.
